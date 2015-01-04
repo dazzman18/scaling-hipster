@@ -1,4 +1,4 @@
 scaling-hipster
-===============
+===========================
 
-firsta programma
+firsta programma!
